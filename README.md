@@ -16,6 +16,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 >Typescript
 ---
 
+## Installation and setup locally
+1. Clone to Local Machine by downloading zip file from github or copy the link from github and add to terminal then hit enter to clone.
+1. Use any compiler for Angular(HTML, CSS and typescript)
+1. Run the dev server for angular
+1. Done!
 
 ## Development server
 

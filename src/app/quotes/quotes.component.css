@@ -1,5 +1,5 @@
 h1{
-    font-family: 'Special Elite', cursive;
+    /* font-family: 'Special Elite', cursive; */
     color: black;
     text-align: center;
     font-weight: bolder;
@@ -7,10 +7,10 @@ h1{
     padding-top: 2%;
   }
   h4{
-    font-family: 'Architects Daughter', cursive;
+    /* font-family: 'Architects Daughter', cursive; */
   }
   span{
-    font-family: 'Architects Daughter', cursive;
+    /* font-family: 'Architects Daughter', cursive; */
   }
   .overlay{
     background-color:white;
@@ -49,7 +49,7 @@ h1{
     font-weight: 700;
   }
   .card-text{
-    font-family: 'Handlee', cursive;
+    /* font-family: 'Handlee', cursive; */
     font-weight: 570;
     font-size: 18px;
   }

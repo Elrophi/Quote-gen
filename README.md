@@ -1,6 +1,11 @@
-# Quote
+# Make your Quote App 
+
+>Description
+### This project allows you to write a quote add it dynamically and see the date and author. it also allows you to upvote and downvote
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+
 
 ## Development server
 

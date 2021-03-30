@@ -37,4 +37,10 @@ typescript code sample:
     new Quote (1,'African','Life','he greatest glory in living lies not in never falling, but in rising every time we fall','Nelson Mandela', new Date(2021,1,12),0,0)
   ];
 ```
+### Email: Elrophi@gmail.com
+### Contact: 0700 000 000
 
+---
+
+### Copyright and License
+[MIT License](https://github.com/Elrophi/Piz-Hub/blob/master/LICENSE)  

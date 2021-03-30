@@ -43,4 +43,4 @@ typescript code sample:
 ---
 
 ### Copyright and License
-[MIT License](https://github.com/Elrophi/Piz-Hub/blob/master/LICENSE)  
+[MIT License](https://github.com/Elrophi/Quote-gen/blob/master/src/LICENSE)  

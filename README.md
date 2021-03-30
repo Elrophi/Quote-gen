@@ -1,4 +1,6 @@
 # Make your Quote App 
+>## Author: [El-rophi Skwaila](https://github.com/Elrophi/Quote-gen.git)
+---
 
 >Description
 ### This project allows you to write a quote add it dynamically and see the date and author. it also allows you to upvote and downvote
